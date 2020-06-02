@@ -1,0 +1,4 @@
+Gazdagép IP-címe: 10.0.116.6
+Virtuális gép MAC-címe: 08:00:27:3f:8f:27
+Virtuális gép IP-címe: 10.0.64.23
+Docker konténer IP-címe: 172.17.0.2
